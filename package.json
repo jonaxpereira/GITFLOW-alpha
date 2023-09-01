@@ -1,7 +1,7 @@
 {
   "name": "gitflow-alpha",
   "version": "1.0.0",
-  "description": "",
+  "description": "proyecto de prueba de gitflow con alpha",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
